@@ -1,7 +1,7 @@
-.DS_Store
-applet
-application.linux32
-application.linux64
-application.windows32
-application.windows64
-application.macosx
+# .gitignore
+
+# Don't add the virtual environment, IDE, and Jupyter notebook info
+venv
+.idea
+.ipynb_checkpoints
+Write-up.ipynb
